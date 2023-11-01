@@ -12,6 +12,7 @@ import Linkedin from '../assets/linkedin.png';
 import Project1 from '../assets/project-1.png';
 import Project2 from '../assets/project-2.png';
 import Project3 from '../assets/project-3.png';
+import Vinay_pic from '../assets/smile.png'; 
 
 
 function Folio() {
@@ -61,7 +62,7 @@ function Folio() {
     </nav>
     <section id="profile">
       <div class="section__pic-container">
-        <img src={ProfilePic} alt="Vinay Sayimpu profile pic" />
+        <img src={Vinay_pic} alt="Vinay Sayimpu profile pic" />
       </div>
       <div class="section__text">
         <p class="section__text__p1">Hello, I'm</p>
